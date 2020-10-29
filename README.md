@@ -1,6 +1,6 @@
 ## Projeto UI da Netflix utilizando ReactJS.
+By: https://www.youtube.com/watch?v=tBweoUiMsDg
 Todos os direitos reservados a Netflix; All rights reserved to Netflix.
-
 Base de filmes cedidos pela API do site: https://www.themoviedb.org/ 
 
 ### Screenshot Tela-Featured
