@@ -8,3 +8,8 @@ Base de filmes cedidos pela API do site: https://www.themoviedb.org/
 
 ### Screenshot Tela-Séries/Filmes 
 ![Print da interface](https://github.com/LgAcerbi/NetflixInterface/blob/main/screenshots/Screenshot_1.png?raw=true)
+
+## Interface responsível
+### ![Print da interface](https://github.com/LgAcerbi/NetflixInterface/blob/main/screenshots/Screenshot_2.png?raw=true)
+### ![Print da interface](https://github.com/LgAcerbi/NetflixInterface/blob/main/screenshots/Screenshot_3.png?raw=true)
+### ![Print da interface](https://github.com/LgAcerbi/NetflixInterface/blob/main/screenshots/Screenshot_4.png?raw=true)
